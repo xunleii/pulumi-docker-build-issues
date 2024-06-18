@@ -1,0 +1,14 @@
+{
+    "name": "pulumi-docker-build-issues",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^18",
+        "typescript": "^5.0.0"
+    },
+    "dependencies": {
+        "@pulumi/docker": "^4.5.4",
+        "@pulumi/docker-build": "^0.0.2",
+        "@pulumi/pulumi": "^3.113.0"
+    },
+    "packageManager": "yarn@4.3.0"
+}

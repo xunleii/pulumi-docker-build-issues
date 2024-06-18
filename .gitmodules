@@ -1,0 +1,3 @@
+[submodule "github.com/xunleii/pulumi-docker-build"]
+	path = github.com/xunleii/pulumi-docker-build
+	url = https://github.com/xunleii/pulumi-docker-build.git
